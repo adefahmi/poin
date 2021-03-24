@@ -1,20 +1,22 @@
-[
-  {
-    "nik": 1051404040,
-    "name": "Nefi Puspitasari",
-    "total_tasks": 4,
-    "poin": 1.5
-  },
-  {
-    "nik": 1065109001,
-    "name": "Singgih Bagus Supriyanto",
-    "total_tasks": 5,
-    "poin": 2
-  },
-  {
-    "nik": 1075109002,
-    "name": "Zahrah Zain Soleha",
-    "total_tasks": 6,
-    "poin": 3
-  }
-]
+{
+  "data":[
+    {
+      "nik": 1051404040,
+      "name": "Nefi Puspitasari",
+      "total_tasks": 4,
+      "poin": 1.5
+    },
+    {
+      "nik": 1065109001,
+      "name": "Singgih Bagus Supriyanto",
+      "total_tasks": 5,
+      "poin": 2
+    },
+    {
+      "nik": 1075109002,
+      "name": "Zahrah Zain Soleha",
+      "total_tasks": 6,
+      "poin": 3
+    }
+  ]
+}
